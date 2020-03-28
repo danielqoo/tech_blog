@@ -87,5 +87,5 @@
   }
 }
 "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:${your github id}/${github page name}.github.io.git'"
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:$danielqoo/$tech_blog.github.io.git'"
 }
